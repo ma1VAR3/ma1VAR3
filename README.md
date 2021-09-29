@@ -9,7 +9,11 @@
 
 An undergrad data scientist and a blockchain enthusiast actively researching in the field of Deep Learning.
 
-A hopefully pleasing contribution graph:
+<div align="center">
+<img src="https://media.giphy.com/media/l378B1B0BqDHJPmJG/giphy.gif">
+</div>
+
+<p align="center">A hopefully pleasing contribution graph:</p>
 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ma1VAR3&theme=react-dark)
 
