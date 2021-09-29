@@ -4,9 +4,9 @@
 
 <img src="https://github.com/ma1VAR3/ma1VAR3/blob/f27fa808e47da5c91ae2b5d49c10546f24fb9888/Prajjwal%20Gupta.png">
 
-and here's a graph for people who like graphs:
+A hopefully pleasing contribution graph:
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ma1VAR3&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ma1VAR3&theme=react-dark)
 
 <h3>my wonderful stats</h3>
 
