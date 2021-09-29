@@ -1,5 +1,6 @@
-<h3 align="center">Hey I am Prajjwal :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px"></h3>
-<h4 align="center"> Also knows as <h4>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" align="center">
+<h2 align="center">Hey I am Prajjwal :) </h2>
+<h3 align="center"> Also knows as <h3>
 
 <img src="https://github.com/ma1VAR3/ma1VAR3/blob/f27fa808e47da5c91ae2b5d49c10546f24fb9888/Prajjwal%20Gupta.png">
 
