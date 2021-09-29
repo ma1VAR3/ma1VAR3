@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" >
-<img src="https://media.giphy.com/media/3o7aCYCZL0hA0S5Ff2/giphy.gif?cid=790b7611daa23e75f720c15a68d510b173286b0d4ccda82c&rid=giphy.gif&ct=s" width="100">
+<img src="https://media.giphy.com/media/3o7aCYCZL0hA0S5Ff2/giphy.gif?cid=790b7611daa23e75f720c15a68d510b173286b0d4ccda82c&rid=giphy.gif&ct=s" width="200">
 </div>
 
 <h1 align="center" style="border-bottom: none">Hey I am Prajjwal :) </h1>
