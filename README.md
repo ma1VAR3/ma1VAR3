@@ -1,6 +1,6 @@
-<h1>hi human! :wave:</h1>
+<h1>Hello sapients of open source :wave:</h1>
 
-<h3>who am i?</h3>
+<br><br>
 
 <img src="https://github.com/ma1VAR3/ma1VAR3/blob/f27fa808e47da5c91ae2b5d49c10546f24fb9888/Prajjwal%20Gupta.png">
 
