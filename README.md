@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" >
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" >
 </div>
 
-<h2 align="center">Hey I am Prajjwal :) </h2>
+<h2 align="center" style="border-bottom: none">Hey I am Prajjwal :) </h2>
 <h3 align="center"> Also knows as <h3>
-
+<h3 align="center"> <b>gravehart</b> | <b>ma1VAR3</b> | <b>MatsuzakaX</b></h3>
 <img src="https://github.com/ma1VAR3/ma1VAR3/blob/f27fa808e47da5c91ae2b5d49c10546f24fb9888/Prajjwal%20Gupta.png">
 
 An undergrad data scientist and a blockchain enthusiast actively researching in the field of Deep Learning.
