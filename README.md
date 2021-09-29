@@ -1,8 +1,9 @@
 <div align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" >
+<img src="https://media.giphy.com/media/3o7aCYCZL0hA0S5Ff2/giphy.gif?cid=790b7611daa23e75f720c15a68d510b173286b0d4ccda82c&rid=giphy.gif&ct=s" width="100">
 </div>
 
-<h2 align="center" style="border-bottom: none">Hey I am Prajjwal :) </h2>
+<h1 align="center" style="border-bottom: none">Hey I am Prajjwal :) </h1>
 <h3 align="center"> Also knows as <h3>
 <h3 align="center"> <b>gravehart</b> | <b>ma1VAR3</b> | <b>MatsuzakaX</b></h3>
 <img src="https://github.com/ma1VAR3/ma1VAR3/blob/f27fa808e47da5c91ae2b5d49c10546f24fb9888/Prajjwal%20Gupta.png">
