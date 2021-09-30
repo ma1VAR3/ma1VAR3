@@ -6,11 +6,9 @@
 <h1 align="center" style="border-bottom: none">Prajjwal Gupta <br>(w/ two J's)</h1>
 <p align="center"> also knows as </p>
 <h3 align="center"> <b>gravehart</b> | <b>ma1VAR3</b> | <b>MatsuzakaX</b></h3>
-<div align="center>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Let's+talk+in+data+or+tokens!)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Let's+talk+in+data+or+tokens!&font=Fira%20Code&center=true&width=380&height=50">
+</p>
 <!-- <img src="https://github.com/ma1VAR3/ma1VAR3/blob/f27fa808e47da5c91ae2b5d49c10546f24fb9888/Prajjwal%20Gupta.png"> -->
 
 <p align="center">I am an undergraduate at Vellore Institute of Technology, Vellore pursuing BTech in Computer Science Engineering with specialization in Information Technology. I am actively researching in the field of Deep Learning and Blockchain technology. Some of the areas in which I have worked include Intrusion Detection, Federated Learning, Swarm Intelligence and some blockchain applications.</p>
