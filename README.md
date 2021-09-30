@@ -24,7 +24,10 @@
 </div>
 
 <p align="center">A hopefully pleasing contribution graph:</p>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ma1VAR3)](https://git.io/streak-stats)
+<br>
+
 ![Prajjwal Gupta's github activity graph](https://activity-graph.herokuapp.com/graph?username=ma1VAR3&theme=react-dark)
 
 <!-- <h3>A brief resume</h3>
