@@ -3,9 +3,10 @@
 <img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy-downsized.gif?cid=790b76116a38e6304ccc9ef692471b63191a4bc303f7476a&rid=giphy-downsized.gif&ct=g" width="600">
 </div>
 
-<h1 align="center" style="border-bottom: none">Prajjwal Gupta <br>(w/ two J's) <br> [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Let's+talk+in+data+or+tokens!)](https://git.io/typing-svg)</h1>
+<h1 align="center" style="border-bottom: none">Prajjwal Gupta <br>(w/ two J's)</h1>
 <p align="center"> also knows as </p>
 <h3 align="center"> <b>gravehart</b> | <b>ma1VAR3</b> | <b>MatsuzakaX</b></h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Let's+talk+in+data+or+tokens!)](https://git.io/typing-svg)
 <!-- <img src="https://github.com/ma1VAR3/ma1VAR3/blob/f27fa808e47da5c91ae2b5d49c10546f24fb9888/Prajjwal%20Gupta.png"> -->
 
 <p align="center">I am an undergraduate at Vellore Institute of Technology, Vellore pursuing BTech in Computer Science Engineering with specialization in Information Technology. I am actively researching in the field of Deep Learning and Blockchain technology. Some of the areas in which I have worked include Intrusion Detection, Federated Learning, Swarm Intelligence and some blockchain applications.</p>
