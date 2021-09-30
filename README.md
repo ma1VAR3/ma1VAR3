@@ -9,6 +9,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Let's+talk+in+data+or+tokens!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=ma1VAR3&color=blue)
+
+</p>
 <!-- <img src="https://github.com/ma1VAR3/ma1VAR3/blob/f27fa808e47da5c91ae2b5d49c10546f24fb9888/Prajjwal%20Gupta.png"> -->
 
 <p align="center">I am an undergraduate at Vellore Institute of Technology, Vellore pursuing BTech in Computer Science Engineering with specialization in Information Technology. I am actively researching in the field of Deep Learning and Blockchain technology. Some of the areas in which I have worked include Intrusion Detection, Federated Learning, Swarm Intelligence and some blockchain applications.</p>
@@ -24,8 +29,8 @@
 </div>
 
 <p align="center">A hopefully pleasing contribution graph:</p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ma1VAR3)](https://git.io/streak-stats)
+<!-- 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ma1VAR3)](https://git.io/streak-stats) -->
 <br>
 
 ![Prajjwal Gupta's github activity graph](https://activity-graph.herokuapp.com/graph?username=ma1VAR3&theme=react-dark)
