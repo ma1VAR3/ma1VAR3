@@ -9,11 +9,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Let's+talk+in+data+or+tokens!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
-<p align="center">
+<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=ma1VAR3&color=blue)
 
-</p>
+</div>
+
 <!-- <img src="https://github.com/ma1VAR3/ma1VAR3/blob/f27fa808e47da5c91ae2b5d49c10546f24fb9888/Prajjwal%20Gupta.png"> -->
 
 <p align="center">I am an undergraduate at Vellore Institute of Technology, Vellore pursuing BTech in Computer Science Engineering with specialization in Information Technology. I am actively researching in the field of Deep Learning and Blockchain technology. Some of the areas in which I have worked include Intrusion Detection, Federated Learning, Swarm Intelligence and some blockchain applications.</p>
@@ -23,6 +24,28 @@
 <img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif?cid=790b76116a38e6304ccc9ef692471b63191a4bc303f7476a&rid=giphy.gif&ct=g" width="100">
 </div>
 <h3>Some of the papers I'm working on</h3> -->
+
+<p class="center">Languages</p>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<!-- solidity -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+</p>
+
+<p class="center">Data Science Stack</p>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+</p>
 
 <div align="center">
 <img src="https://media.giphy.com/media/l378B1B0BqDHJPmJG/giphy.gif">
@@ -53,6 +76,6 @@
 <br> -->
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=khalby786&column=7&theme=onedark" />
-</div>
+</div> -->
