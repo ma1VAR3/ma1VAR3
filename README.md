@@ -15,6 +15,14 @@
 
 </div>
 
+<div align="center">
+<a href="https://twitter.com/withtwojs">
+
+![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+</a>
+
+</div>
+
 <!-- <img src="https://github.com/ma1VAR3/ma1VAR3/blob/f27fa808e47da5c91ae2b5d49c10546f24fb9888/Prajjwal%20Gupta.png"> -->
 
 <p align="center">I am an undergraduate at Vellore Institute of Technology, Vellore pursuing BTech in Computer Science Engineering with specialization in Information Technology. I am actively researching in the field of Deep Learning and Blockchain technology. Some of the areas in which I have worked include Intrusion Detection, Federated Learning, Swarm Intelligence and some blockchain applications.</p>
