@@ -22,15 +22,7 @@
 <a href="https://www.youtube.com/channel/UCOSzXxncJLngdEEhMAR5Lww"><img src="https://img.shields.io/badge/GraveTV-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a> 
 </p>
 
-<!-- <img src="https://github.com/ma1VAR3/ma1VAR3/blob/f27fa808e47da5c91ae2b5d49c10546f24fb9888/Prajjwal%20Gupta.png"> -->
-
 <p align="center">I am an undergraduate at Vellore Institute of Technology, Vellore pursuing BTech in Computer Science Engineering with specialization in Information Technology. I am actively researching in the field of Deep Learning and Blockchain technology. Some of the areas in which I have worked include Intrusion Detection, Federated Learning, Swarm Intelligence and some blockchain applications.</p>
-
-<!-- <div align="center">
-
-<img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif?cid=790b76116a38e6304ccc9ef692471b63191a4bc303f7476a&rid=giphy.gif&ct=g" width="100">
-</div>
-<h3>Some of the papers I'm working on</h3> -->
 
 <p align="center">Languages</p>
 <p align="center">
@@ -43,7 +35,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 <img src="https://banner2.cleanpng.com/20180411/kjq/kisspng-solidity-ethereum-blockchain-smart-contract-progra-blockchain-5ace81fe0c9514.6143250015234831340515.jpg" width="40"/>
-<!-- solidity -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
 </p>
 
@@ -78,8 +69,7 @@
 </div>
 
 <p align="center">A hopefully pleasing contribution graph:</p>
-<!-- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ma1VAR3)](https://git.io/streak-stats) -->
+
 <br>
 
 ![Prajjwal Gupta's github activity graph](https://activity-graph.herokuapp.com/graph?username=ma1VAR3&theme=react-dark)
@@ -89,19 +79,6 @@
 
 ```json
 {
-  "joined": "3 years ago",
-  "repos": "55",
-  "repos_contributed_to": "27",
-  "commits": "1711",
-  "stars": "302",
-  "issues": "19",
-  "pull_requests": "127"
+  "joined": "2 years ago",
 }
 ```
-
-<br> -->
-<br>
-
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khalby786&column=7&theme=onedark" />
-</div> -->
