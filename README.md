@@ -15,31 +15,11 @@
 
 </div>
 
-<div align="center" style="display:flex; flex-direction:row;">
-<a href="https://twitter.com/withtwojs">
-
-![Twitter](https://img.shields.io/badge/withtwojs-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-</a>
-<a href="https://www.instagram.com/prajjwalgupta_/">
-
-![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-</a>
-<a href="https://www.linkedin.com/in/prajjwal-gupta-9bb9381a5/">
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
-<a href="https://www.youtube.com/channel/UCOSzXxncJLngdEEhMAR5Lww">
-
-![YouTube](https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-</a>
-
-</div>
-
 <p align="center">
 <a href="https://twitter.com/withtwojs"><img src="https://img.shields.io/badge/withtwojs-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-<a href="https://www.instagram.com/prajjwalgupta_/"><img src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/prajjwalgupta_/"><img src="https://img.shields.io/badge/prajjwalgupta_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/prajjwal-gupta-9bb9381a5/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>   
-<a href="https://www.youtube.com/channel/UCOSzXxncJLngdEEhMAR5Lww"><img src="https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a> 
+<a href="https://www.youtube.com/channel/UCOSzXxncJLngdEEhMAR5Lww"><img src="https://img.shields.io/badge/GraveTV-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a> 
 </p>
 
 <!-- <img src="https://github.com/ma1VAR3/ma1VAR3/blob/f27fa808e47da5c91ae2b5d49c10546f24fb9888/Prajjwal%20Gupta.png"> -->
