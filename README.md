@@ -1,7 +1,7 @@
-<div align="center">
+<!-- <div align="center"> -->
 <!-- <img src="https://media.giphy.com/media/3o7aCYCZL0hA0S5Ff2/giphy.gif?cid=790b7611daa23e75f720c15a68d510b173286b0d4ccda82c&rid=giphy.gif&ct=s" width="200"> -->
-<img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy-downsized.gif?cid=790b76116a38e6304ccc9ef692471b63191a4bc303f7476a&rid=giphy-downsized.gif&ct=g" width="600">
-</div>
+<!-- <img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy-downsized.gif?cid=790b76116a38e6304ccc9ef692471b63191a4bc303f7476a&rid=giphy-downsized.gif&ct=g" width="600">
+</div> -->
 
 <h1 align="center" style="border-bottom: none">Prajjwal Gupta <br>(w/ two J's)</h1>
 <p align="center"> also knows as </p>
