@@ -64,15 +64,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 </p>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://media.giphy.com/media/l378B1B0BqDHJPmJG/giphy.gif">
-</div>
+</div> -->
 
-<p align="center">A hopefully pleasing contribution graph:</p>
+<!-- <p align="center">A hopefully pleasing contribution graph:</p>
 
 <br>
 
-![Prajjwal Gupta's github activity graph](https://activity-graph.herokuapp.com/graph?username=ma1VAR3&theme=react-dark)
+![Prajjwal Gupta's github activity graph](https://activity-graph.herokuapp.com/graph?username=ma1VAR3&theme=react-dark) -->
 
 <!-- <h3>A brief resume</h3>
 <hr>
