@@ -3,7 +3,7 @@
 <!-- <img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy-downsized.gif?cid=790b76116a38e6304ccc9ef692471b63191a4bc303f7476a&rid=giphy-downsized.gif&ct=g" width="600">
 </div> -->
 
-<h1 align="center" style="border-bottom: none">Prajjwal Gupta <br>(w/ two J's)</h1>
+<h1 align="center" style="border-bottom: none">Prajjwal Gupta <br>(w/ two J's)<br></h1>
 <p align="center"> also knows as </p>
 <h3 align="center"> <b>gravehart</b> | <b>ma1VAR3</b> | <b>MatsuzakaX</b></h3>
 <p align="center">
