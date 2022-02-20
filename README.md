@@ -46,11 +46,32 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
 </p>
 
-<h3>Research</h3>
+<h3 align="center">Research</h3>
 
-| Type         | Title                                                                      | Venue           |
-| ------------ | -------------------------------------------------------------------------- | --------------- |
-| Book Chapter | A Study of Gene Characteristics and Their Applications using Deep Learning | Springer Nature |
+<table>
+<thead>
+  <tr>
+    <th>Type</th>
+    <th>Title</th>
+    <th>Venue</th>
+    <th>Publisher</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Book Chapter</td>
+    <td>A Study of Gene Characteristics and Their Applications using Deep Learning</td>
+    <td>Handbook of Machine Learning Applications for Genomics</td>
+    <td>Springer Nature</td>
+  </tr>
+  <tr>
+    <td>Book Chpater</td>
+    <td>A Brief Insight into the Applications of IoT and Cloud Computing in Education, Entertainment, Transportation, <br>Manufacturing, Healthcare and Agriculture: A COVID-19 Disaster Perspective</td>
+    <td>New Frontiers in IoT and Cloud Computing for Post-COVID-19 Era</td>
+    <td>Springer Nature</td>
+  </tr>
+</tbody>
+</table>
 
 <!-- <p align="center">Web Development and Blockchain Stack</p>
 <p align="center">
