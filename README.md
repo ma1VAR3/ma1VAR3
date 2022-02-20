@@ -46,6 +46,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
 </p>
 
+<br>
+
 <h3 align="center">Research</h3>
 
 <table>
@@ -125,5 +127,15 @@
 ```json
 {
   "joined": "2 years ago",
+}
+```
+
+-->
+<h3 align="center">Work Experience</h3>
+
+```json
+{
+  "Sep 2020 - Present": "Security and AI (SAI) Laboratory, NIT Kurukshetra",
+  "Sep 2020 - Present": "Offset-Global Technologies"
 }
 ```
