@@ -46,8 +46,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
 </p>
 
-<br>
-
 <h2 align="center">Research</h2>
 
 <table>
