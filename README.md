@@ -48,7 +48,7 @@
 
 <br>
 
-<h3 align="center">Research</h3>
+<h2 align="center">Research</h2>
 
 <table>
 <thead>
@@ -131,11 +131,13 @@
 ```
 
 -->
-<h3 align="center">Work Experience</h3>
+
+<h2 align="center">Experience</h2>
 
 ```json
 {
   "Sep 2020 - Present": "Security and AI (SAI) Laboratory, NIT Kurukshetra",
-  "Sep 2020 - Present": "Offset-Global Technologies"
+  "Sep 2020 - Present": "Offset-Global Technologies",
+  "Dec 2020 - Feb 2020": "ArcelorMittal Nippon Steel India"
 }
 ```
