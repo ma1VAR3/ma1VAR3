@@ -22,7 +22,7 @@
 <a href="https://www.youtube.com/channel/UCOSzXxncJLngdEEhMAR5Lww"><img src="https://img.shields.io/badge/GraveTV-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a> 
 </p>
 
-<p align="center">I am an undergraduate at Vellore Institute of Technology, Vellore pursuing BTech in Computer Science Engineering with specialization in Information Technology. I am actively researching in the field of Deep Learning and Blockchain technology. Some of the areas in which I have worked include Intrusion Detection, Federated Learning, Swarm Intelligence and some blockchain applications.</p>
+<p align="center">I am an undergraduate at Vellore Institute of Technology, Vellore pursuing BTech in Computer Science Engineering with specialization in Information Technology. I am actively carrying out research in the field of Deep Learning and Blockchain technology. Some of the areas in which I have worked include Federated Learning, Intrusion Detection, Swarm Intelligence and some blockchain applications.</p>
 
 <p align="center">Languages</p>
 <p align="center">
@@ -46,7 +46,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
 </p>
 
-<p align="center">Web Development and Blockchain Stack</p>
+<h3>Research</h3>
+
+| Type         | Title                                                                      | Venue           |
+| ------------ | -------------------------------------------------------------------------- | --------------- |
+| Book Chapter | A Study of Gene Characteristics and Their Applications using Deep Learning | Springer Nature |
+
+<!-- <p align="center">Web Development and Blockchain Stack</p>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
@@ -54,15 +60,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="40"/>
-</p>
+</p> -->
 
-<p align="center">Design & Editing</p>
+<!-- <p align="center">Design & Editing</p>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-</p>
+</p> -->
 
 <!-- <div align="center">
 <img src="https://media.giphy.com/media/l378B1B0BqDHJPmJG/giphy.gif">
