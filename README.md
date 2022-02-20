@@ -70,6 +70,24 @@
     <td>New Frontiers in IoT and Cloud Computing for Post-COVID-19 Era</td>
     <td>Springer Nature</td>
   </tr>
+  <tr>
+    <td>Research Paper</td>
+    <td>Neural Architecture Search using Computational Pathology powered Swarm Intelligence Model for Diabetic Retinopathy</td>
+    <td>NA</td>
+    <td>NA</td>
+  </tr>
+  <tr>
+    <td>Research Paper</td>
+    <td>Inverted Gradient-based Data Poisoning Attack in Biometric System</td>
+    <td>NA</td>
+    <td>NA</td>
+  </tr>
+  <tr>
+    <td>Research Paper</td>
+    <td>A novel Intrusion Detection system based on Domain Generalization using Specialized Autoencoders</td>
+    <td>NA</td>
+    <td>NA</td>
+  </tr>
 </tbody>
 </table>
 
