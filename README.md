@@ -41,6 +41,8 @@
 <p align="center">Data Science Stack</p>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
@@ -72,19 +74,19 @@
   </tr>
   <tr>
     <td>Research Paper</td>
-    <td>Neural Architecture Search using Computational Pathology powered Swarm Intelligence Model for Diabetic Retinopathy</td>
+    <td>Early Diagnosis of Retinal Blood Vessel Damage via Deep Learning-Powered Collective Intelligence Models</td>
+    <td>Computational and Mathematical Methods in Medicine</td>
+    <td>Hindawi</td>
+  </tr>
+  <tr>
+    <td>Research Paper</td>
+    <td>A Novel Data Poisoning Attack in Federated Learning based on Inverted Loss Function</td>
     <td>NA</td>
     <td>NA</td>
   </tr>
   <tr>
     <td>Research Paper</td>
-    <td>Inverted Gradient-based Data Poisoning Attack in Biometric System</td>
-    <td>NA</td>
-    <td>NA</td>
-  </tr>
-  <tr>
-    <td>Research Paper</td>
-    <td>A novel Intrusion Detection system based on Domain Generalization using Specialized Autoencoders</td>
+    <td>DAIDNet: A Novel Lightweight Domain Aware Architecture for Automated Detection of Network Penetrations in the Internet of Things</td>
     <td>NA</td>
     <td>NA</td>
   </tr>
@@ -133,9 +135,11 @@
 <h2 align="center">Experience</h2>
 
 ```json
-{
-  "Sep 2020 - Present": "Security and AI (SAI) Laboratory, NIT Kurukshetra",
-  "Sep 2020 - Present": "Offset-Global Technologies",
-  "Dec 2020 - Feb 2020": "ArcelorMittal Nippon Steel India"
+{ 
+  "Dec 2022 - Present": "Indian Urban Data Exchange (IUDX), SID, IISc Bangalore",
+  "Feb 2022 - Jul 2022": "DynamoFL",
+  "Sep 2021 - Aug 2022": "Security and AI (SAI) Laboratory, NIT Kurukshetra",
+  "Sep 2021 - May 2022": "Offset-Global Technologies",
+  "Dec 2020 - Feb 2021": "ArcelorMittal Nippon Steel India"
 }
 ```
