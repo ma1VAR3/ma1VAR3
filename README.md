@@ -48,7 +48,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
 </p>
 
-<h2 align="center">Research</h2>
+<!-- <h2 align="center">Research</h2>
 
 <table>
 <thead>
@@ -91,7 +91,7 @@
     <td>NA</td>
   </tr>
 </tbody>
-</table>
+</table> -->
 
 <!-- <p align="center">Web Development and Blockchain Stack</p>
 <p align="center">
