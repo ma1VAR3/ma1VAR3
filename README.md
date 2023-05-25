@@ -6,14 +6,14 @@
 <h1 align="center" style="border-bottom: none">Prajjwal Gupta <br>(w/ two J's)<br></h1>
 <p align="center"> also knows as </p>
 <h3 align="center"> <b>gravehart</b> | <b>ma1VAR3</b> | <b>MatsuzakaX</b></h3>
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Let's+talk+in+data+or+tokens!&font=Fira%20Code&center=true&width=380&height=50">
-</p>
-<div align="center">
+</p> -->
+<!-- <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=ma1VAR3&color=blue)
 
-</div>
+</div> -->
 
 <p align="center">
 <a href="https://twitter.com/withtwojs"><img src="https://img.shields.io/badge/withtwojs-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
