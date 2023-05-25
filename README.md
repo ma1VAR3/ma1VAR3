@@ -22,7 +22,7 @@
 <a href="https://www.youtube.com/channel/UCOSzXxncJLngdEEhMAR5Lww"><img src="https://img.shields.io/badge/GraveTV-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a> 
 </p>
 
-<p align="center">I am an undergraduate at Vellore Institute of Technology, Vellore pursuing BTech in Computer Science Engineering with specialization in Information Technology. I am actively carrying out research in the field of Deep Learning and Blockchain technology. Some of the areas in which I have worked include Federated Learning, Intrusion Detection, Swarm Intelligence and some blockchain applications.</p>
+<p align="center">I make AI more secure and private, the way it should be. I do this by mixing and making a soup out of different methods proposed in papers. Yes, not all soups are tasty. If you're interested in this topic, let's exchange recipes.</p>
 
 <p align="center">Languages</p>
 <p align="center">
