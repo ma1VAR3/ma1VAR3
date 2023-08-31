@@ -4,7 +4,7 @@
 </div> -->
 
 <h1 align="center" style="border-bottom: none">Prajjwal Gupta <br>(w/ two J's)<br></h1>
-<p align="center"> also knows as </p>
+<p align="center"> also known as </p>
 <h3 align="center"> <b>gravehart</b> | <b>ma1VAR3</b> | <b>MatsuzakaX</b></h3>
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Let's+talk+in+data+or+tokens!&font=Fira%20Code&center=true&width=380&height=50">
